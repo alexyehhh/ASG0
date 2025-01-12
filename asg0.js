@@ -1,6 +1,3 @@
-// Alex Yeh
-// alpyeh@ucsc.edu
-
 function main() {
     var canvas = document.getElementById('example'); // Retrieve <canvas> element
     if (!canvas) {
